@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1027,
+    "binary_name":  "Reflow_Oven.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1188,
+    "coverage_ratio":  1.156767283349562,
+    "coverage_retention":  0.997078870496592,
+    "num_blocks":  1188
+}

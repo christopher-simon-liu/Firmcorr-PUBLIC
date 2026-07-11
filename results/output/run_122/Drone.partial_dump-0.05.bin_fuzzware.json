@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1873,
+    "binary_name":  "Drone.partial_dump-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1835,
+    "coverage_ratio":  0.9797116924719701,
+    "coverage_retention":  0.9791777896422851,
+    "num_blocks":  1835
+}

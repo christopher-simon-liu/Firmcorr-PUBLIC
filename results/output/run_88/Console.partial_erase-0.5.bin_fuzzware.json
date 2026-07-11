@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  805,
+    "binary_name":  "Console.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  844,
+    "coverage_ratio":  1.0484472049689442,
+    "coverage_retention":  1.0,
+    "num_blocks":  844
+}

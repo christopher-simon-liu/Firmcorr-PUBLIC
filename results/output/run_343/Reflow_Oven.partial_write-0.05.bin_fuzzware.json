@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1188,
+    "binary_name":  "Reflow_Oven.partial_write-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1007,
+    "coverage_ratio":  0.8476430976430976,
+    "coverage_retention":  0.8451178451178452,
+    "num_blocks":  1007
+}

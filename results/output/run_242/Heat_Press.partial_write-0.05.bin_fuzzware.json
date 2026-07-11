@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  554,
+    "binary_name":  "Heat_Press.partial_write-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  568,
+    "coverage_ratio":  1.0252707581227436,
+    "coverage_retention":  1.0,
+    "num_blocks":  568
+}

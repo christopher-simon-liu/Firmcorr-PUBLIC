@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  640,
+    "binary_name":  "PLC.address_bit_freeze-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  448,
+    "coverage_ratio":  0.7,
+    "coverage_retention":  0.7,
+    "num_blocks":  448
+}

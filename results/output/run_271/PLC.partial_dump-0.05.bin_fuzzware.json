@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  655,
+    "binary_name":  "PLC.partial_dump-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  546,
+    "coverage_ratio":  0.833587786259542,
+    "coverage_retention":  0.833587786259542,
+    "num_blocks":  546
+}

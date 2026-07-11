@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  644,
+    "binary_name":  "PLC.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  643,
+    "coverage_ratio":  0.9984472049689441,
+    "coverage_retention":  0.9906832298136646,
+    "num_blocks":  643
+}

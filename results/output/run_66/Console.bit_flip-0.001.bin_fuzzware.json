@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  844,
+    "binary_name":  "Console.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  805,
+    "coverage_ratio":  0.9537914691943128,
+    "coverage_retention":  0.9537914691943128,
+    "num_blocks":  805
+}

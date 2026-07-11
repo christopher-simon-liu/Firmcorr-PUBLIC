@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2542,
+    "binary_name":  "Soldering_Iron.address_bit_freeze-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2418,
+    "coverage_ratio":  0.9512195121951219,
+    "coverage_retention":  0.946498819826908,
+    "num_blocks":  2418
+}

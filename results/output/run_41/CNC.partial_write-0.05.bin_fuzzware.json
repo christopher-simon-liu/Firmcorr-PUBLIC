@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2706,
+    "binary_name":  "CNC.partial_write-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2694,
+    "coverage_ratio":  0.9955654101995566,
+    "coverage_retention":  0.975240206947524,
+    "num_blocks":  2694
+}

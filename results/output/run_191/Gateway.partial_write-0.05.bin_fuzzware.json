@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2445,
+    "binary_name":  "Gateway.partial_write-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2473,
+    "coverage_ratio":  1.0114519427402864,
+    "coverage_retention":  0.9987730061349693,
+    "num_blocks":  2473
+}

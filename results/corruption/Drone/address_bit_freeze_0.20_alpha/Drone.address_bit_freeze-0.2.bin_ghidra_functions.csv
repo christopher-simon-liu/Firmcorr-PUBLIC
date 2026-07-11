@@ -1,0 +1,4 @@
+firmware,fva,func_name
+workspace/dataset/corruption/Drone/address_bit_freeze_0.20_alpha/Drone.address_bit_freeze-0.2.bin,134220292,"FUN_08000a04"
+workspace/dataset/corruption/Drone/address_bit_freeze_0.20_alpha/Drone.address_bit_freeze-0.2.bin,134240304,"FUN_08005830"
+workspace/dataset/corruption/Drone/address_bit_freeze_0.20_alpha/Drone.address_bit_freeze-0.2.bin,134241360,"FUN_08005c50"

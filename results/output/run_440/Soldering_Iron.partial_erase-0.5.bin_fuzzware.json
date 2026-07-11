@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2324,
+    "binary_name":  "Soldering_Iron.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2574,
+    "coverage_ratio":  1.1075731497418244,
+    "coverage_retention":  0.9982788296041308,
+    "num_blocks":  2574
+}

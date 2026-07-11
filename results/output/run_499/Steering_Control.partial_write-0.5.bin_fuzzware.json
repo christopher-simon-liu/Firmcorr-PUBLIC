@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  617,
+    "binary_name":  "Steering_Control.partial_write-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  613,
+    "coverage_ratio":  0.993517017828201,
+    "coverage_retention":  0.993517017828201,
+    "num_blocks":  613
+}

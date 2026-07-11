@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2429,
+    "binary_name":  "Gateway.address_bit_freeze-0.2.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2656,
+    "coverage_ratio":  1.0934540963359407,
+    "coverage_retention":  0.9975298476739399,
+    "num_blocks":  2656
+}

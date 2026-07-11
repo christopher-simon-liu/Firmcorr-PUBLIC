@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1833,
+    "binary_name":  "Drone.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1839,
+    "coverage_ratio":  1.0032733224222585,
+    "coverage_retention":  0.9989088925259137,
+    "num_blocks":  1839
+}

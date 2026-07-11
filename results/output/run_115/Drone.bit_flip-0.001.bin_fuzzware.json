@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1809,
+    "binary_name":  "Drone.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1850,
+    "coverage_ratio":  1.0226644555002764,
+    "coverage_retention":  1.0,
+    "num_blocks":  1850
+}

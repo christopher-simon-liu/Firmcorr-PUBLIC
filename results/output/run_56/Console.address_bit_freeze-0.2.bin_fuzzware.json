@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  818,
+    "binary_name":  "Console.address_bit_freeze-0.2.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  805,
+    "coverage_ratio":  0.9841075794621027,
+    "coverage_retention":  0.9841075794621027,
+    "num_blocks":  805
+}

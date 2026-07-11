@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  554,
+    "binary_name":  "Heat_Press.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  553,
+    "coverage_ratio":  0.9981949458483754,
+    "coverage_retention":  0.9981949458483754,
+    "num_blocks":  553
+}

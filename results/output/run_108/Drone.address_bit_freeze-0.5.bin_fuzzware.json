@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1846,
+    "binary_name":  "Drone.address_bit_freeze-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1828,
+    "coverage_ratio":  0.9902491874322861,
+    "coverage_retention":  0.9902491874322861,
+    "num_blocks":  1828
+}

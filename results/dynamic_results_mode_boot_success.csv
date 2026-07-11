@@ -1,0 +1,6 @@
+mode,case_count,boot_case_count,boot_success_percent
+address_bit_freeze,100,100,99
+bit_flip,100,100,100
+partial_dump,100,100,100
+partial_erase,100,100,100
+partial_write,100,100,100

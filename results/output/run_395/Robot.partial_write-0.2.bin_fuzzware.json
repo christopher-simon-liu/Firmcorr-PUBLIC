@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1310,
+    "binary_name":  "Robot.partial_write-0.2.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1309,
+    "coverage_ratio":  0.999236641221374,
+    "coverage_retention":  0.999236641221374,
+    "num_blocks":  1309
+}

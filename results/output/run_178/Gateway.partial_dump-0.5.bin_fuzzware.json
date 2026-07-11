@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2225,
+    "binary_name":  "Gateway.partial_dump-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2740,
+    "coverage_ratio":  1.2314606741573033,
+    "coverage_retention":  0.9667415730337079,
+    "num_blocks":  2740
+}

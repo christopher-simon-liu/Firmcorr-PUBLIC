@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2478,
+    "binary_name":  "Gateway.bit_flip-0.0001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2446,
+    "coverage_ratio":  0.9870863599677159,
+    "coverage_retention":  0.8688458434221146,
+    "num_blocks":  2446
+}

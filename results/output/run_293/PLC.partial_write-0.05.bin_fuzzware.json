@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  644,
+    "binary_name":  "PLC.partial_write-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  638,
+    "coverage_ratio":  0.9906832298136646,
+    "coverage_retention":  0.9906832298136646,
+    "num_blocks":  638
+}

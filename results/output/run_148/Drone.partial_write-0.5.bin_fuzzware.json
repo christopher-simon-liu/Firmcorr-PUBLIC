@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1842,
+    "binary_name":  "Drone.partial_write-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1831,
+    "coverage_ratio":  0.994028230184582,
+    "coverage_retention":  0.993485342019544,
+    "num_blocks":  1831
+}

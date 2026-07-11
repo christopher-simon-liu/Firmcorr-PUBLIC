@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  613,
+    "binary_name":  "Steering_Control.bit_flip-0.0001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  615,
+    "coverage_ratio":  1.00326264274062,
+    "coverage_retention":  1.0,
+    "num_blocks":  615
+}

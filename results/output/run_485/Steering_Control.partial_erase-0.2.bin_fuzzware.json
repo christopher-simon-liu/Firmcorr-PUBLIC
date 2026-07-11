@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  620,
+    "binary_name":  "Steering_Control.partial_erase-0.2.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  615,
+    "coverage_ratio":  0.9919354838709677,
+    "coverage_retention":  0.9887096774193549,
+    "num_blocks":  615
+}

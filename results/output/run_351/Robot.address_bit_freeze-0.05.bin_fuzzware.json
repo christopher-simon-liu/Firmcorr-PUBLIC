@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1296,
+    "binary_name":  "Robot.address_bit_freeze-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1302,
+    "coverage_ratio":  1.0046296296296295,
+    "coverage_retention":  1.0,
+    "num_blocks":  1302
+}

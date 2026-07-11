@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  805,
+    "binary_name":  "Console.partial_write-0.2.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  857,
+    "coverage_ratio":  1.0645962732919254,
+    "coverage_retention":  1.0,
+    "num_blocks":  857
+}

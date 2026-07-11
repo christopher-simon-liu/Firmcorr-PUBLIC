@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  640,
+    "binary_name":  "PLC.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  449,
+    "coverage_ratio":  0.7015625,
+    "coverage_retention":  0.7015625,
+    "num_blocks":  449
+}

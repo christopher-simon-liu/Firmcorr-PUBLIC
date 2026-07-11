@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1300,
+    "binary_name":  "Robot.partial_erase-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1299,
+    "coverage_ratio":  0.9992307692307693,
+    "coverage_retention":  0.9976923076923077,
+    "num_blocks":  1299
+}

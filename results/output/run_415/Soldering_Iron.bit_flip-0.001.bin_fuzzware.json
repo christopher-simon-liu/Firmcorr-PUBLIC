@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2498,
+    "binary_name":  "Soldering_Iron.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2388,
+    "coverage_ratio":  0.955964771817454,
+    "coverage_retention":  0.9499599679743795,
+    "num_blocks":  2388
+}

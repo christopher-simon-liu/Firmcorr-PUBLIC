@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1017,
+    "binary_name":  "Reflow_Oven.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1188,
+    "coverage_ratio":  1.168141592920354,
+    "coverage_retention":  0.9970501474926253,
+    "num_blocks":  1188
+}

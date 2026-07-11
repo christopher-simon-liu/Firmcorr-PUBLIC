@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1188,
+    "binary_name":  "Reflow_Oven.address_bit_freeze-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1023,
+    "coverage_ratio":  0.8611111111111112,
+    "coverage_retention":  0.8585858585858586,
+    "num_blocks":  1023
+}

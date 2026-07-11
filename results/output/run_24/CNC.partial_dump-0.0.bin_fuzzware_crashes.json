@@ -1,0 +1,10 @@
+{
+    "crash_block_set": [],
+    "crash_signature_set": [
+        "11"
+    ],
+    "total_crash_traces": 370,
+    "unique_crash_blocks": 0,
+    "unique_crash_signatures": 1,
+    "unreadable_trace_files": []
+}

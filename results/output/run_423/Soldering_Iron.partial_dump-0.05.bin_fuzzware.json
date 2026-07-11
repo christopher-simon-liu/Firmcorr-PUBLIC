@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2541,
+    "binary_name":  "Soldering_Iron.partial_dump-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2320,
+    "coverage_ratio":  0.9130263675718221,
+    "coverage_retention":  0.9110586383313656,
+    "num_blocks":  2320
+}

@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1294,
+    "binary_name":  "Robot.bit_flip-0.001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1386,
+    "coverage_ratio":  1.071097372488408,
+    "coverage_retention":  1.0,
+    "num_blocks":  1386
+}

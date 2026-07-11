@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2365,
+    "binary_name":  "Soldering_Iron.partial_write-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2579,
+    "coverage_ratio":  1.0904862579281185,
+    "coverage_retention":  0.9945031712473573,
+    "num_blocks":  2579
+}

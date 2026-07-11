@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2649,
+    "binary_name":  "CNC.address_bit_freeze-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2117,
+    "coverage_ratio":  0.7991694979237448,
+    "coverage_retention":  0.7897319743299358,
+    "num_blocks":  2117
+}

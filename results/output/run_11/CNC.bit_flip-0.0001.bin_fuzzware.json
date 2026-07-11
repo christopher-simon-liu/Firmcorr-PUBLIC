@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2563,
+    "binary_name":  "CNC.bit_flip-0.0001.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2698,
+    "coverage_ratio":  1.052672649239173,
+    "coverage_retention":  0.9882949668357394,
+    "num_blocks":  2698
+}

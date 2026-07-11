@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2528,
+    "binary_name":  "CNC.partial_dump-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2689,
+    "coverage_ratio":  1.0636867088607596,
+    "coverage_retention":  0.9869462025316456,
+    "num_blocks":  2689
+}

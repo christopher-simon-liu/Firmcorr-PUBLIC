@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2703,
+    "binary_name":  "CNC.partial_erase-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2723,
+    "coverage_ratio":  1.0073991860895302,
+    "coverage_retention":  0.9911209766925638,
+    "num_blocks":  2723
+}

@@ -1,0 +1,5 @@
+firmware,fva,func_name
+workspace/dataset/corruption/Heat_Press/address_bit_freeze_0.20_alpha/Heat_Press.address_bit_freeze-0.2.bin,2762,"FUN_00000aca"
+workspace/dataset/corruption/Heat_Press/address_bit_freeze_0.20_alpha/Heat_Press.address_bit_freeze-0.2.bin,2764,"FUN_00000acc"
+workspace/dataset/corruption/Heat_Press/address_bit_freeze_0.20_alpha/Heat_Press.address_bit_freeze-0.2.bin,5128,"FUN_00001408"
+workspace/dataset/corruption/Heat_Press/address_bit_freeze_0.20_alpha/Heat_Press.address_bit_freeze-0.2.bin,16992,"FUN_00004260"

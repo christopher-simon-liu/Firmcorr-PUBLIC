@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  2538,
+    "binary_name":  "Gateway.partial_erase-0.05.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  2805,
+    "coverage_ratio":  1.1052009456264775,
+    "coverage_retention":  0.9739952718676123,
+    "num_blocks":  2805
+}

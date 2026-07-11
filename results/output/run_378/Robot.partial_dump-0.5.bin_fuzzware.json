@@ -1,0 +1,9 @@
+﻿{
+    "baseline_blocks":  1349,
+    "binary_name":  "Robot.partial_dump-0.5.bin",
+    "boot_success":  1,
+    "corrupted_blocks":  1297,
+    "coverage_ratio":  0.9614529280948851,
+    "coverage_retention":  0.9599703484062269,
+    "num_blocks":  1297
+}
